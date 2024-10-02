@@ -1,63 +1,63 @@
 央视频道,#genre#
-CCTV-1 综合,http://1.70.32.177:8082/udp/239.1.1.7:8007#
-CCTV-2 财经,http://113.116.43.148:5000/udp/239.77.0.137:5146#http://ddns.cyruslee.top:8888/udp/239.77.0.137:5146#https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8#http://xuys.top:8888/udp/225.1.1.193:5002#
-CCTV-3 综艺,http://www.dsmcloud.top:8888/udp/239.81.0.231:4056#http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=#
-CCTV-4 中文国际,http://www.dsmcloud.top:8888/udp/239.81.0.96:4056#http://123.129.70.178:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0#http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?&encrypt=#
-CCTV-5 体育,http://omnix.cn:4000/udp/225.1.8.89:8000#
-CCTV-6 电影,http://113.116.43.148:5000/udp/239.77.0.171:5146#http://www.dsmcloud.top:8888/udp/239.81.0.233:4056#
-CCTV-7 国防军事,http://ddns.cyruslee.top:8888/udp/239.77.0.138:5146#http://www.dsmcloud.top:8888/udp/239.81.0.116:4056#http://116.128.224.11:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0#
-CCTV-8 电视剧,http://www.dsmcloud.top:8888/udp/239.81.0.234:4056#http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/01.m3u8?&HlsSubType=&encrypt=#
-CCTV-9 纪录,http://s.cdhongyuan.cn:4022/udp/239.93.1.24:5140#
-CCTV-10 科教,http://ddns.cyruslee.top:8888/udp/239.77.0.134:5146#http://www.dsmcloud.top:8888/udp/239.81.0.118:4056#http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=#
-CCTV-11 戏曲,http://113.116.43.148:5000/udp/239.77.1.238:5146#
-CCTV-12 社会与法,http://113.116.43.148:5000/udp/239.77.0.136:5146#http://www.dsmcloud.top:8888/udp/239.81.0.117:4056#http://www.dsmcloud.top:8888/udp/239.81.0.119:4056#
-CCTV-13 新闻,http://113.116.43.148:5000/udp/239.253.43.196:5146#http://www.dsmcloud.top:8888/udp/239.81.0.206:4056#
-CCTV-14 少儿,http://www.dsmcloud.top:8888/udp/239.81.0.120:4056#http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/01.m3u8?&HlsSubType=&encrypt=#
-CCTV-15 音乐,http://113.116.43.148:5000/udp/239.77.1.239:5146#http://www.dsmcloud.top:8888/udp/239.81.0.232:4056#http://www.dsmcloud.top:8888/udp/239.81.0.230:4056#
-CCTV-16 奥林匹克,http://113.116.43.148:5000/udp/239.77.0.165:5146#
-CCTV-17 农业农村,http://113.116.43.148:5000/udp/239.77.1.121:5146#http://www.dsmcloud.top:8888/udp/239.81.0.228:4056#
+CCTV-1 综合,http://113.67.164.10:8888/udp/239.77.0.86:5146#
+CCTV-2 财经,CCTV-2 财经#
+CCTV-3 综艺,http://27.10.76.34:8001/udp/225.0.4.142:7980#
+CCTV-4 中文国际,CCTV-4 中文国际#
+CCTV-5 体育,http://27.10.76.34:8006/udp/225.0.4.143:7980#
+CCTV-6 电影,http://27.10.76.34:8008/udp/225.0.4.144:7980#
+CCTV-7 国防军事,http://27.10.76.34:8008/udp/225.0.4.127:7980#
+CCTV-8 电视剧,http://223.10.21.36:8083/udp/239.1.1.15:8015#
+CCTV-9 纪录,http://223.10.21.36:8083/udp/239.1.1.16:8016#
+CCTV-10 科教,http://117.114.153.18:8180/TV00000000000000000143@HHZT#
+CCTV-11 戏曲,http://117.114.153.18:8180/TV00000000000000000002@HHZT#
+CCTV-12 社会与法,http://vl15191373.imwork.net:8880/udp/239.93.1.30:8124#
+CCTV-13 新闻,CCTV-13 新闻#
+CCTV-14 少儿,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/01.m3u8?&HlsSubType=&encrypt=#
+CCTV-15 音乐,http://113.13.243.199:6666/udp/239.81.0.230:4056#
+CCTV-16 奥林匹克,http://14.21.143.206:8888/udp/239.77.1.76:5146#
+CCTV-17 农业农村,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/57/01.m3u8?&HlsSubType=&encrypt=#
 少儿频道,#genre#
-卡酷少儿,http://113.100.72.213:8899/udp/239.77.0.79:5146#
+卡酷少儿,http://113.100.72.213:8899/udp/239.77.1.50:5146#
 嘉佳卡通,http://113.94.31.25:4022/udp/239.77.0.179:5146#
 金鹰卡通,金鹰卡通#
 卫视频道,#genre#
-湖南,http://113.116.43.148:5000/udp/239.77.0.88:5146#http://222.241.154.37:9901/tsfile/live/23025_1.m3u8#http://222.241.154.37:9901/tsfile/live/23020_1.m3u8#http://222.241.154.37:9901/tsfile/live/23026_1.m3u8#http://222.241.154.37:9901/tsfile/live/23022_1.m3u8#http://222.241.154.37:9901/tsfile/live/23027_1.m3u8#http://222.241.154.37:9901/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.241.154.37:9901/tsfile/live/23023_1.m3u8#http://222.241.154.37:9901/tsfile/live/23024_1.m3u8#http://116.128.224.11:9901/tsfile/live/1002_1.m3u8#
-湖北,http://www.furymax.top:85/udp/239.69.1.204:10866#http://www.hiliu.myds.me:8088/udp/239.69.1.42:9892#http://119.98.133.99:4022/udp/239.69.1.41:9886#http://www.hiliu.myds.me:8088/udp/239.69.1.205:10872#http://20191221.xyz:8888/udp/239.69.1.206:10878#http://www.furymax.top:85/udp/239.69.1.40:9880#http://www.furymax.top:85/udp/239.69.1.43:9898#http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd#http://61.184.176.248:10500/live/live.m3u8#http://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8#
-安徽,http://113.116.43.148:5000/udp/239.77.0.183:5146#http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv#http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv#http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv#http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd#
-江苏,http://27.10.134.196:8001/udp/225.0.4.79:7980#
-江西,http://113.119.39.15:4021/udp/239.77.1.219:5146#http://www.lizhinas.top:1009/udp/239.252.220.102:5140#http://www.lizhinas.top:1009/udp/239.252.219.115:5140#http://www.lizhinas.top:1009/udp/239.252.220.100:5140#http://www.lizhinas.top:1009/udp/239.252.219.173:5140#http://www.lizhinas.top:1009/udp/239.252.220.238:5140#http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8#
-浙江,http://113.116.43.148:5000/udp/239.77.0.89:5146#https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8#
-东方,http://113.116.43.148:5000/udp/239.77.1.218:5146#http://113.116.43.148:5000/udp/239.77.1.218:5146#http://60.7.56.50:4000/udp/239.253.93.239:6417#
-东南,http://ik6.iptv8.net:8888/udp/225.1.4.228:1274#
-厦门,http://www.qhjx.top:18000/udp/238.255.2.205:5999#
-广东,http://113.116.43.148:5000/udp/239.77.0.173:5146#http://116.21.121.30:4021/udp/239.77.0.5:5146#http://119.129.238.239:10000/udp/239.77.0.168:5146#http://benhaha.top:8888/udp/239.21.0.85:3680#http://hlsbkmgsplive.miguvideo.com/ws_w/gdws/gdws3000/3000/01.m3u8?&HlsSubType=&encrypt=#
-深圳,http://113.116.43.148:5000/udp/239.77.0.92:5146#http://jt.zorua.cn:8787/udp/239.77.1.224:5146#http://ddns.cyruslee.top:8888/udp/239.77.1.9:5146#http://mail.bfgpay.cn:2052/udp/239.77.1.243:5146#http://ddns.cyruslee.top:8888/udp/239.77.1.7:5146#http://jt.zorua.cn:8787/udp/239.77.1.175:5146#http://jt.zorua.cn:8787/udp/239.77.1.242:5146#http://jt.zorua.cn:8787/udp/239.77.1.34:5146#
-广西,http://www.dsmcloud.top:8888/udp/239.81.0.107:4056#http://116.9.204.242:9901/tsfile/live/1001_1.m3u8#https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188#
-贵州,http://live.strmtzx.cn/stxw/sd/live.m3u8#http://vl15191373.imwork.net:8880/udp/239.93.0.131:5140#
-重庆,http://113.116.43.148:5000/udp/239.77.1.162:5146#http://113.251.228.247:7788/udp/235.254.199.169:7980#http://222.179.42.129:8181/hls1.m3u8?zzhongqd#https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129#http://live.wanyuannews.com/wytv/hd/live.m3u8#
-四川,http://113.116.43.148:5000/udp/239.77.1.215:5146#http://vl15191373.imwork.net:8880/udp/239.93.0.41:5140#http://wouu.net:9977/udp/239.93.0.166:5140#http://wouu.net:9977/udp/239.93.42.44:5140#http://wouu.net:9977/udp/239.93.1.101:5140#http://wouu.net:9977/udp/239.93.1.102:5140#http://wouu.net:9977/udp/239.93.0.52:5140#http://wouu.net:9977/udp/239.93.0.47:5140#
-陕西,http://s.cdhongyuan.cn:4022/udp/239.93.0.100:5140#http://1.70.32.177:8082/udp/239.1.1.50:8050#http://124.116.183.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0#http://124.116.183.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0#
-山西,http://vl15191373.imwork.net:8880/udp/239.93.0.6:5140#http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true#http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true#http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true#http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true#
-山东,http://221.0.78.198:1681/hls/10222/index.m3u8#http://60.27.135.201:8082/udp/225.1.2.118:5002#http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=#
-河南,http://113.116.43.148:5000/udp/239.77.0.17:5146#http://ik6.iptv8.net:8888/udp/225.1.4.52:1081#http://ik6.iptv8.net:8888/udp/225.1.4.53:1082#http://live.dxhmt.cn:9081/tv/10225-1.m3u8#http://live.dxhmt.cn:9081/tv/10422-1.m3u8#http://live.dxhmt.cn:9081/tv/11621-1.m3u8#http://live.dxhmt.cn:9081/tv/11326-1.m3u8#http://live.dxhmt.cn:9081/tv/11625-1.m3u8#
-河北,http://vl15191373.imwork.net:8880/udp/239.93.0.132:5140#https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8#https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8#http://livebroadcast.ccwb.cn/live/w1619693259142907.flv#https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd#https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8#http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=2510710360&k=82fa2120c1c91f181bbdf82de498faad#http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=61bdf654828c9db6c20fbb4717fc6dee#
-北京,http://113.116.43.148:5000/udp/239.77.0.91:5146#http://123.113.186.207:8000/udp/239.3.1.116:8000#http://omnix.cn:4000/udp/225.1.8.83:8000#http://115.171.216.56:4000/udp/225.1.8.108:8002#http://115.171.216.56:4000/udp/225.1.8.105:8002#http://115.171.216.56:4000/udp/225.1.8.118:8002#
-天津,http://60.27.135.201:8082/udp/225.1.1.128:5002#http://60.27.135.201:8082/udp/225.1.1.130:5002#http://60.27.135.201:8082/udp/225.1.1.131:5002#http://60.7.56.50:4000/udp/239.253.92.91:8021#
-辽宁,http://113.116.43.148:5000/udp/239.77.0.123:5146#http://124.94.193.136:9902/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0#http://124.94.193.136:9902/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.76.248.139/live/bfgd/4200000071.m3u8#http://120.76.248.139/live/bfgd/4200000073.m3u8#http://120.76.248.139/live/bfgd/4200000076.m3u8#
-吉林,http://106.59.3.147:55555/udp/239.200.201.127:8792#
-黑龙江,http://9988.667789.cn:55055/udp/229.58.190.14:5000#http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://9988.667789.cn:55055/udp/229.58.190.30:5000#http://9988.667789.cn:55055/udp/229.58.190.34:5000#http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8#http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8#http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild#http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild#https://stream.hrbtv.net/zxpd/sd/live.m3u8#
-内蒙古,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880#https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800#https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800#https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800#https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800#https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800#http://221.213.69.82:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0#
-宁夏,http://lmt.scqstv.com/live1/live1.m3u8#https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8#http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8#http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8#http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd#http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd#http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8#https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8#
-甘肃,http://106.59.3.147:55555/udp/239.200.200.186:8356#http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu#https://hls.gstv.com.cn/49048r/w1l6d5.m3u8#https://hls.gstv.com.cn/49048r/10iv1j.m3u8#https://hls.gstv.com.cn/49048r/l54391.m3u8#https://hls.gstv.com.cn/49048r/3t5xyc.m3u8#
-青海,http://125.89.163.44:8888/udp/239.253.43.125:5146#
-新疆,http://218.84.12.186:8001/hls/main/playlist.m3u8#http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd#http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8#http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8#http://36.35.16.98:9901/tsfile/live/0001_15.m3u8?key=txiptv&playlive=0&authid=0#http://124.88.144.73:1935/live/jjsh/playlist.m3u8#http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd#http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd#http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd#http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8#
-西藏,http://1.70.32.177:8082/udp/239.1.1.57:8057#
-云南,http://116.128.224.11:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0#
-海南,http://60.27.135.201:8082/udp/225.1.2.82:5002#
-三沙,http://60.27.135.201:8082/udp/225.1.2.181:5002#
-大湾区,http://benhaha.top:8888/udp/239.21.0.84:3676#
+湖南,湖南#
+湖北,http://www.furymax.top:85/udp/239.69.1.204:10866#http://20191221.xyz:8888/udp/239.69.1.42:9892#http://221.232.13.58:4022/udp/239.69.1.41:9886#http://bl.dchwtq.asia:10000/udp/239.69.1.205:10872#http://www.furymax.top:85/udp/239.69.1.206:10878#http://www.furymax.top:85/udp/239.69.1.40:9880#http://www.furymax.top:85/udp/239.69.1.43:9898#http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd#http://61.184.176.248:10500/live/live.m3u8#http://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8#
+安徽,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv#http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv#http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv#http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd#http://117.114.153.18:8180/TV00000000000000000087@HHZT#
+江苏,http://60.7.56.50:4000/udp/239.253.92.88:8018#
+江西,http://www.lizhinas.top:1009/udp/239.252.220.100:5140#http://www.lizhinas.top:1009/udp/239.252.219.173:5140#http://www.lizhinas.top:1009/udp/239.252.220.238:5140#http://36.40.237.113:9999/tsfile/live/0132_8.m3u8?key=txiptv&playlive=0&authid=0#http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8#http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8#https://live3.lalifeier.eu.org/gitv/jxjy.m3u8?t=1723101531&key=b07a43aff1303dae49d7f60f24d03d6c#
+浙江,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#
+东方,http://113.67.164.10:8888/udp/239.77.1.218:5146#http://113.67.164.10:8888/udp/239.77.1.218:5146#http://minecraft.qc0727.top:22222/udp/239.45.3.237:5140#http://xuys.top:8888/udp/225.1.1.247:5002#
+东南,http://www.akw323.com:9527/udp/238.255.2.103:5999#
+厦门,http://221.213.69.82:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0#
+广东,http://113.101.160.29:8888/udp/239.77.0.4:5146#http://58.252.12.164:8000/udp/239.77.0.166:5146#http://58.252.12.164:8000/udp/239.77.0.225:5146#http://219.159.194.239:8181/tsfile/live/1004_1.m3u8?key=Aikantv&t=1727357598#
+深圳,http://mail.bfgpay.cn:2052/udp/239.77.0.130:5146#http://mail.bfgpay.cn:2052/udp/239.77.1.243:5146#http://125.89.163.44:8888/udp/239.77.1.242:5146#http://mail.bfgpay.cn:2052/udp/239.77.1.124:5146#
+广西,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8#https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188#
+贵州,http://live.strmtzx.cn/stxw/sd/live.m3u8#http://wouu.net:9977/udp/239.93.0.131:5140#
+重庆,http://113.251.226.247:7788/udp/235.254.199.169:7980#http://222.179.42.129:8181/hls1.m3u8?zzhongqd#https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129#http://27.10.76.34:8001/udp/225.0.4.187:7980#http://live.wanyuannews.com/wytv/hd/live.m3u8#
+四川,http://113.67.164.10:8888/udp/239.77.0.159:5146#http://vl15191373.imwork.net:8880/udp/239.93.0.41:5140#http://wouu.net:9977/udp/239.93.0.166:5140#http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8#http://wouu.net:9977/udp/239.93.1.101:5140#http://wouu.net:9977/udp/239.93.1.102:5140#http://wouu.net:9977/udp/239.93.0.52:5140#http://wouu.net:9977/udp/239.93.0.47:5140#
+陕西,http://s.cdhongyuan.cn:4022/udp/239.93.0.100:5140#http://124.116.183.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0#http://124.116.183.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0#
+山西,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true#http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true#http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true#http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true#
+山东,http://120.237.241.82:4000/udp/239.77.0.83:5146#http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=#
+河南,http://ik6.iptv8.net:8888/udp/225.1.4.52:1081#http://ik6.iptv8.net:8888/udp/225.1.4.53:1082#http://live.dxhmt.cn:9081/tv/10225-1.m3u8#http://live.dxhmt.cn:9081/tv/10422-1.m3u8#http://live.dxhmt.cn:9081/tv/11621-1.m3u8#http://live.dxhmt.cn:9081/tv/11326-1.m3u8#http://live.dxhmt.cn:9081/tv/11625-1.m3u8#
+河北,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8#https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8#http://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.flv#https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd#https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8#http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=2510710360&k=689e494c226aa7038632a897aa3dbd27#rtmp://tv.pull.hebtv.com/jishi/weishipindao?t=2510710360&k=6cdf3c059a496f8c8375f86e1fb53346#http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=2510710360&k=82fa2120c1c91f181bbdf82de498faad#http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=61bdf654828c9db6c20fbb4717fc6dee#
+北京,http://120.234.5.29:6000/udp/239.20.0.121:2040#http://123.113.186.207:8000/udp/239.3.1.159:8000#http://124.205.11.239:91/live/BTVSHhd-5M/live.m3u8#http://123.113.186.207:8000/udp/239.3.1.116:8000#
+天津,http://xuys.top:8888/udp/225.1.1.128:5002#http://xuys.top:8888/udp/225.1.1.130:5002#http://xuys.top:8888/udp/225.1.1.131:5002#http://117.114.153.18:8180/TV00000000000000000085@HHZT#
+辽宁,http://120.237.241.82:4000/udp/239.77.0.123:5146#http://120.76.248.139/live/bfgd/4200000071.m3u8#http://120.76.248.139/live/bfgd/4200000073.m3u8#http://120.76.248.139/live/bfgd/4200000076.m3u8#
+吉林,http://223.10.21.36:8082/udp/239.1.1.30:8030#
+黑龙江,http://vl15191373.imwork.net:8880/udp/239.93.0.183:5140#http://9988.667789.cn:55055/udp/229.58.190.14:5000#http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://9988.667789.cn:55055/udp/229.58.190.30:5000#http://9988.667789.cn:55055/udp/229.58.190.34:5000#http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8#http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8#http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild#http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild#
+内蒙古,http://36.40.237.113:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0#https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880#https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800#https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800#https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800#https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800#https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800#
+宁夏,http://lmt.scqstv.com/live1/live1.m3u8#https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8#http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8#http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd#http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd#http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8#http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8#https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8#
+甘肃,http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu#https://hls.gstv.com.cn/49048r/w1l6d5.m3u8#https://hls.gstv.com.cn/49048r/10iv1j.m3u8#https://hls.gstv.com.cn/49048r/l54391.m3u8#https://hls.gstv.com.cn/49048r/3t5xyc.m3u8#http://116.128.224.11:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0#
+青海,http://vl15191373.imwork.net:8880/udp/239.93.0.192:5140#
+新疆,http://220.164.192.48:50085/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0#http://218.84.12.186:8001/hls/main/playlist.m3u8#http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd#http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8#http://124.88.144.73:1935/live/jjsh/playlist.m3u8#http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd#http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd#http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd#http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8#
+西藏,http://120.237.241.82:4000/udp/239.77.0.74:5146#
+云南,http://14.21.143.206:8888/udp/239.253.43.100:5146#
+海南,http://vl15191373.imwork.net:8880/udp/239.93.0.80:5140#
+三沙,http://wouu.net:9977/udp/239.93.42.58:5140#
+大湾区,http://113.67.164.10:8888/udp/239.77.0.9:5146#
 延边,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8#http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8#http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild#http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild#
-安多,http://stream.qhbtv.com/adws/sd/live.m3u8#
-兵团,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd#http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd#http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd#https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd#http://60.27.135.201:8082/udp/225.1.1.57:5002#
-康巴,http://61.157.139.15:9901/tsfile/live/2415_1.m3u8?key=txiptv&playlive=1&authid=0#
-天气,http://origin.lean.org.cn:4000/udp/239.45.1.47:5140#
+安多,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8#
+兵团,http://123.180.177.20:16000/udp/239.253.93.176:6344#https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd#http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd#http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd#https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd#
+康巴,http://111.202.12.159:8080/3zvkK28/1000/live.m3u8#
+天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8#
